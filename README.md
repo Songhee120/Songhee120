@@ -6,6 +6,7 @@
 #### 💌 More about me
 More about how I study
 [![ChatGPT-AI Assistant](https://img.shields.io/badge/Tstory-FFD3B5?logo=tistory)](https://dogandbird.tistory.com/)
+
 More about my life
 [![ChatGPT-AI Assistant](https://img.shields.io/badge/Blog-fdfbfb?logo=naver)](https://blog.naver.com/song2hello)
 
