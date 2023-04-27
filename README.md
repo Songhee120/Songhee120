@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:fbc2eb,100:a6c1ee&height=300&section=header&text=Hi,there:/&fontSize=50&fontColor=FFFFFF&desc=SongheeLee&fontAlignY=35&descAlignY=50)
 
-<style>
-  h1 {
-    text-align: center;
-  }
-</style>
-
 ##### 📚 Tech Stack
 ![ChatGPT-AI Assistant](https://img.shields.io/badge/JAVA-2F9599?logo=oracle) ![ChatGPT-AI Assistant](https://img.shields.io/badge/C-F7DB4F?logo=c)
 
