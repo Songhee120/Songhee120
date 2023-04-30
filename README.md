@@ -3,7 +3,7 @@
 ##### 📚 Tech Stack
 ![ChatGPT-AI Assistant](https://img.shields.io/badge/JAVA-2F9599?logo=oracle) ![ChatGPT-AI Assistant](https://img.shields.io/badge/C-F7DB4F?logo=c)
 
-##### 💌 More about how I study and about my life
+##### 💌 More about how I study and my life
 [![ChatGPT-AI Assistant](https://img.shields.io/badge/Tstory-FFD3B5?logo=tistory)](https://dogandbird.tistory.com/) [![ChatGPT-AI Assistant](https://img.shields.io/badge/Blog-fdfbfb?logo=naver)](https://blog.naver.com/song2hello)
 
 
