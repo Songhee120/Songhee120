@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:fbc2eb,100:a6c1ee&height=300&section=header&text=Hi,there:>&fontSize=50&fontColor=FFFFFF&desc=SongheeLee&fontAlignY=35&descAlignY=50)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Hi,there!&fontSize=50&fontColor=FFFFFF&desc=SongheeLee&fontAlignY=35&descAlignY=50)
 
 
 
